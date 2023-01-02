@@ -1,0 +1,41 @@
+.main{
+    border: 2px solid grey;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: rgb(162, 199, 199);
+    height: 190px;
+}
+.text{
+    width: 92.5%;
+    margin-top: 5px;
+    margin-left: 5px;
+    border: 1px solid gray;
+    padding: 3px;
+    border-radius: 3px;
+}
+.text:hover{
+    background-color: aqua;
+
+}
+.clear{
+    width: 95%;
+    margin-top: 5px;
+    margin-left: 5px;
+    padding: 3px;
+}
+.clear:hover{
+    background-color: aqua;
+}
+.btn{
+    width: 65px;
+    margin: 5px 3px;
+}
+.btn:hover{
+    background-color: rgb(150, 141, 141);
+
+}
+.lastbtn{
+    width: 47%;
+    margin: 2px 2px ;
+}
